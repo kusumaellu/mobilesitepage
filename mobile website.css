@@ -1,0 +1,22 @@
+.bging{
+	background-image: url('https://png.pngtree.com/background/20210711/original/pngtree-hd-cool-background-illustration-picture-image_1131674.jpg');
+	background-size: cover;
+	height: 100vh;
+}
+.layoutcard{
+background-color: white;
+height: 200px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+padding: 20p;
+}
+.heading{
+	color: black;
+	font-family: 'Roboto';
+	font-weight: bold;
+
+}
+.paraline{
+	font-family: 'Roboto';
+	color: black;
+}
